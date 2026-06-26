@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOBUY.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOBUY"
+              "title": "README"
             }
           }
         ]
@@ -197,11 +197,11 @@
   },
   "active": "389402285d0c85bf",
   "lastOpenFiles": [
-    "To remember.md",
-    "TOBUY.md",
     "README.md.md",
-    "PCZÃO QUENTE QUE TALVEZ VÁ SAIR??.md",
     "README.md",
+    "TOBUY.md",
+    "To remember.md",
+    "PCZÃO QUENTE QUE TALVEZ VÁ SAIR??.md",
     "Booklist.md",
     "obsidian.pub",
     "obsidian",
