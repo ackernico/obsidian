@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "f8f52f7ae60d67ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "099d900be4e0c9b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389402285d0c85bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOBUY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOBUY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1901ad31d7f63a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e70541145c26cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d12ae1b4ee817c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "006d3493ac5661d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a83f9414bb1ecdb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9457838a7ea9685",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ba2ab1c7d31d44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57fb445bb31841b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TOBUY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TOBUY"
+            }
+          },
+          {
+            "id": "ad7d0d966d9078d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TOBUY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TOBUY"
+            }
+          },
+          {
+            "id": "d3e4cadcf8272038",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2c46cc0d09c50562",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4637b46bcf8f97f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TOBUY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TOBUY"
+            }
+          },
+          {
+            "id": "b1690ada7d3a50bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "389402285d0c85bf",
+  "lastOpenFiles": [
+    "To remember.md",
+    "TOBUY.md",
+    "README.md.md",
+    "PCZÃO QUENTE QUE TALVEZ VÁ SAIR??.md",
+    "README.md",
+    "Booklist.md",
+    "obsidian.pub",
+    "obsidian",
+    "FII.md",
+    "home/nicacker/Documents/obsidian",
+    "home/nicacker/Documents",
+    "home/nicacker",
+    "home",
+    "git",
+    "(almost) Daily Notes",
+    "2026-02-22.md",
+    "Notes",
+    "Welcome.md"
+  ]
+}
